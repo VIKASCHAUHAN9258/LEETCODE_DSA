@@ -11,6 +11,7 @@
 | [0704-binary-search](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0704-binary-search/) | Easy |
 | [1051-height-checker](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1470-shuffle-the-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Matrix
