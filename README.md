@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0066-plus-one/) | Easy |
+| [0283-move-zeroes](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0704-binary-search/) | Easy |
 | [1051-height-checker](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1051-height-checker/) | Easy |
@@ -47,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0027-remove-element/) | Easy |
+| [0283-move-zeroes](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
