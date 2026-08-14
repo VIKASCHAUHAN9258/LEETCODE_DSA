@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0066-plus-one/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -60,4 +61,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0001-two-sum/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
