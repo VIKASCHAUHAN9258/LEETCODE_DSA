@@ -7,8 +7,7 @@ class Solution {
                 minPrice=prices[i];
             }
             else if(prices[i]-minPrice>maxProfit){
-                int a = prices[i]-minPrice;
-                maxProfit=a;
+                maxProfit=prices[i]-minPrice;
             }
         }
         return maxProfit;
