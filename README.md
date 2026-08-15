@@ -56,6 +56,7 @@
 | [0027-remove-element](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -65,4 +66,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
