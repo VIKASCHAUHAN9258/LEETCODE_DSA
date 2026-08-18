@@ -10,11 +10,12 @@ class Solution {
         char[] last = strs[strs.length-1].toCharArray();
         // Loop from 0 to length of array
         for(int i=0; i<first.length; i++){
-        // Condition if character     
+        // Condition if when character does not match then break    
             if(first[i]!=last[i]){
                 break;
            
             }
+            // Append will store Matching characters in Result container
                  result.append(first[i]);
         }
         return result.toString();
