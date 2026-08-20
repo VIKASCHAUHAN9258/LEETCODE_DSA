@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -41,6 +42,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
