@@ -51,6 +51,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1051-height-checker](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1051-height-checker/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
@@ -70,6 +71,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@
 | [0014-longest-common-prefix](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +92,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
