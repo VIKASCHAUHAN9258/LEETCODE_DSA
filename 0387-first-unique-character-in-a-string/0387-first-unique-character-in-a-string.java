@@ -6,10 +6,12 @@ class Solution {
                 if(i!=j && s.charAt(i)==s.charAt(j)){
                     unique=false;
                     break;
+                    
                 }
             }
             if(unique){
                 return i;
+                
             }
         }
         return -1;
