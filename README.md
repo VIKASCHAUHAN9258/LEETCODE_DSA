@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0049-group-anagrams](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -51,6 +52,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
@@ -83,6 +85,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -96,6 +99,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0344-reverse-string/) | Easy |
