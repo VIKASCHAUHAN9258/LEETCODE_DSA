@@ -23,6 +23,7 @@
 | [1051-height-checker](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1470-shuffle-the-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1929-concatenation-of-array/) | Easy |
@@ -144,4 +145,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
