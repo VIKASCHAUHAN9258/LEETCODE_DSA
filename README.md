@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0217-contains-duplicate](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -58,6 +59,7 @@
 | [0049-group-anagrams](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -91,6 +93,7 @@
 | [0001-two-sum](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0217-contains-duplicate](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
