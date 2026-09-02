@@ -30,6 +30,7 @@
 | [1672-richest-customer-wealth](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@
 | [0202-happy-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
