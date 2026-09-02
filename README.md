@@ -43,6 +43,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0066-plus-one/) | Easy |
+| [0202-happy-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Binary Search
@@ -84,6 +85,7 @@
 | [0088-merge-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -93,6 +95,7 @@
 | [0001-two-sum](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0202-happy-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
@@ -157,4 +160,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
