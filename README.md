@@ -53,6 +53,7 @@
 | [0258-add-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [3870-count-commas-in-range](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Binary Search
