@@ -32,6 +32,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -111,6 +112,7 @@
 | [0242-valid-anagram](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,4 +182,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0258-add-digits/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
