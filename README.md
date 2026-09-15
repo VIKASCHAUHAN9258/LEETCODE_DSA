@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -115,6 +116,7 @@
 | [0242-valid-anagram](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
