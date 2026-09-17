@@ -36,6 +36,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -122,6 +123,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -142,6 +144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
