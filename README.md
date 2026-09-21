@@ -58,6 +58,7 @@
 | [0009-palindrome-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -168,6 +169,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -201,6 +203,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0231-power-of-two/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
