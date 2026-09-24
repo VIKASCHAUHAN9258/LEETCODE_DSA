@@ -28,6 +28,7 @@
 | [0485-max-consecutive-ones](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -90,6 +91,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0414-third-maximum-number/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1051-height-checker/) | Easy |
 ## Counting Sort
@@ -118,6 +120,7 @@
 | [0344-reverse-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
