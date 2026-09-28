@@ -158,6 +158,7 @@
 | [0242-valid-anagram](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,4 +233,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0169-majority-element/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
