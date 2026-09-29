@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -50,10 +51,12 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0258-add-digits/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1929-concatenation-of-array/) | Easy |
