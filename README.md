@@ -65,6 +65,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0231-power-of-two/) | Easy |
@@ -78,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -246,4 +248,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
