@@ -30,6 +30,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -85,6 +86,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
