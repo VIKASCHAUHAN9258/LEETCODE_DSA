@@ -72,6 +72,7 @@
 | [0231-power-of-two](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3870-count-commas-in-range](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -85,6 +86,7 @@
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0875-koko-eating-bananas/) | Medium |
