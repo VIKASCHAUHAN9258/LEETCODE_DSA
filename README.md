@@ -72,6 +72,7 @@
 | [0231-power-of-two](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3870-count-commas-in-range](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3870-count-commas-in-range/) | Easy |
@@ -231,6 +232,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0326-power-of-three/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
