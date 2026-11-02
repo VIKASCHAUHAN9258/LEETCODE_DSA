@@ -164,6 +164,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0125-valid-palindrome/) | Easy |
@@ -249,10 +250,12 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VIKASCHAUHAN9258/LEETCODE_DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
